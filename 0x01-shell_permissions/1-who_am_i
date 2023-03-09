@@ -1,2 +1,2 @@
-#!/bin/bash
-id _un
+#!/bin/bash#!/bin/bash
+whoami
